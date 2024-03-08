@@ -39,11 +39,3 @@ class L1CacheAspect(
         return r
     }
 }
-/*
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jikra/l1cache.git
-git push -u origin main
- */
